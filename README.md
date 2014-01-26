@@ -1,5 +1,7 @@
 MyOS
 ====
+[Started working on MyOS_Blundell, was able to understand that much better, later on will combine some part of this repository into that]
+
 My attempt to writing an Operating system from ground up and on way understand the concepts and working.
 
 
